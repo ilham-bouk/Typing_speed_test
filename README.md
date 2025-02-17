@@ -1,8 +1,8 @@
-# Typing_speed_test
+# Typing Speed Test Game
 
 ## Welcome! 👋
 
-![Screenshot for Todo List](Screenshot.png)
+![Screenshot for Typing Speed Test Game](Screenshot.png)
 
 ## Table of contents
 
@@ -39,6 +39,9 @@ Here are some features we’re planning to add in future updates:
 - **Dark Mode**: Add a toggle for dark and light themes.
 - **Responsive Design**: Optimize the app for mobile and tablet devices.
 - **Performance Improvements**: Reduce load times and optimize resource usage.
+- **Win function**:
+- **Effects**: like: sounds, winner effect like sprinkles background.
+- **Level**: add levels and make the user choose the level, also store the level in local storage.
 
 ### Useful resources
 
