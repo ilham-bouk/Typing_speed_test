@@ -30,8 +30,7 @@ const words = [
   "Rust",
   "Playing"
 ];
-
-// console.log(words);
+// RANDOM_QUOTE_API_URL = 'http://api.quotable.io/random
 
 const lvls = {
   "Easy": 6,
