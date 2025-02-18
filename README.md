@@ -54,6 +54,6 @@ Here are some features we’re planning to add in future updates:
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback. It definitely helps to find new ways to code and find easier solutions!
+If you have any questions or need further assistance, feel free to open an issue on GitHub or contact me directly. Your contributions and feedback are highly appreciated!
 
 **Happy coding!** ☺️🚀
